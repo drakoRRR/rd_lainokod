@@ -15,7 +15,7 @@
 * docker-compose up -d --build
 ![img.png](media/result2.png)
 
-2. d
+2. 
 * Скачати пайтон з ```https://www.python.org/downloads/```
 * git clone this project
     ### On Macos
